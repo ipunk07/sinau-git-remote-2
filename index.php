@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Sinau Git Remote Version 2</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt et praesentium, minima obcaecati autem eaque assumenda accusamus tenetur dicta vitae corporis aliquam sed aut esse voluptas illum nobis sequi porro?</p>
 </body>
 </html>
